@@ -1,4 +1,4 @@
-# Ignorer les fichiers générés par l'IDE (comme IntelliJ ou Eclipse)
+# Ignorer les fichiers générés par l'IDE
 .idea/
 *.iml
 
@@ -19,3 +19,6 @@
 
 # Ignorer les fichiers de log
 *.log
+
+# Ignorer le dossier de configuration de VSCode
+.vscode/
